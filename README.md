@@ -1,6 +1,6 @@
 # Hi, I’m Souvik 
 
-PhD Researcher @ University of Pittsburgh | Magnetics & Power Electronics
+PhD Student @ University of Pittsburgh | Magnetics & Power Electronics
 
 Working to develop physics aware models that bridge magnetic materials, components, and system level design, with a long term goal of building a fully automated magnetic component design bench linking material datasheets directly to optimized designs and models.
 
